@@ -3,10 +3,10 @@ remote_theme: chrisrhymes/bulma-clean-theme
 # Site Settings
 lang: en
 title: Our workshop
-tagline: Bulma Clean Theme
+tagline: Our Workshop
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+   This is a site for Manuel's and Raul's workshop
 #baseurl: "/bulma-clean-theme"
 #url: "https://www.csrhymes.com"
 permalink: pretty
