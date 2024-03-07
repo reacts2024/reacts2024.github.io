@@ -1,65 +1,61 @@
-# bulma-clean-theme
+# Jekyll-based Conference Template
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+An academic conference website template built using Jekyll.
 
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern-looking site to start with. 
+## Configuration
 
-The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interactive components, such as mobile navbar and notifications.
+Data Files under `_data` to configure all conference related information.
 
-## Contents
+- `conference.yml`
+  - `full_title`: conference fullname e.g., First xxx conference on xxxx, 2017.
+  - `short_title`: conference shortname e.g., xxxx2017
+  - `description`: short description about the conference (< 160 char)
+  - `location`: conference location
+  - `logo_path`: conference logo
+  - `slideshow`: images slideshow
+  - `navbar`: navigation menu.
+  - `sponsors`: sponsor section.
+  - `deadlines`: important dates of deadlines, pass-due date will be automatically printed with del line.
+  - `social_media`: social media on the navbar. (current support facebook and twitter.)
+- `news.yml`: news section
+- `organization.yml`: committees
+  - `programm_chair`: program chair
+  - `organizing_committees`: organizing committees
+  - `steering_committees`: steering committees
+  - `technical_program_committees`: technical program committees
+- `venue.yml`: information about venue
+  - `address`: full address
+  - `accommodation`: accommodation details
+  - `direction`: path to image containing directions
+- `submission.yml`: submission instructions
+- `registration.yml`: registration information
 
-* [Installation](#installation)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+- Google Analytics: in `_config.yml`
 
+## Deployment
 
-## Installation
+### Manual
 
-Add this line to your Jekyll site's `Gemfile`:
+* Setup Ruby, RVM, Jeykyll, Bundler.
+  - Check installation instructions at [INSTALL.md](INSTALL.md).
+* Remove `.github/workflows/`
+* Change target of the symbolic `Gemfile` to `Gemfile.local`
+  ```
+  rm Gemfile
+  ln -s Gemfile.local Gemfile
+  ```
+* Adjust release path in `Makefile`
+* Test locally, `make serve`
+* Build and copy to publish location, `make publish`
+* Commit changes to the publish location
 
-```ruby
-gem "bulma-clean-theme"
-```
+### GitHub Pages
 
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: bulma-clean-theme
-```
-
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
-
-```yaml
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bulma-clean-theme
-
-## Documentation
-
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+* Ensure that the repository is public and GitHub Pages are enabled and set to use GitHub Actions.
+* Create `.github/workflows`
+* Copy `workflows/release.yml` to `.github/workflows/release.yml`
+* Change target of the symbolic `Gemfile` to `Gemfile.github`
+  ```
+  rm Gemfile
+  ln -s Gemfile.github Gemfile
+  ```
