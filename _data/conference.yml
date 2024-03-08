@@ -1,6 +1,7 @@
 full_name: Workshop on Formal Methods for Reconfigurable Systems
 short_name: ForMeRS
 description: > # this means to ignore newlines until "baseurl:"
+  This is a satellite event of  <a href="https://sefm-conference.github.io/2024/" >SEFM 2024</a>
 
 email: rfervari@unc.edu.ar / martins.ua.pt
 
@@ -100,7 +101,7 @@ deadlines:
     text: Submission deadline
     pass_due: False
     strike_through: False
-  - date: 2024-09-28
+  - date: 2024-09-20
     text: Notification of acceptance
     pass_due: False
     strike_through: False

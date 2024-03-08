@@ -57,16 +57,16 @@
   # - name: Andrew Ollett
   #   org: Harvard University, Cambridge, MA
   #   homepage: ""
-  - name: Daniel Figueredo
-    org: ""
+  - name: Daniel Figueiredo
+    org: "University of Aveiro (Portugal)"
     homepage: " "
   - name: Regivan Santiago
-    org: ""
-    homepage: " "
+    org: "Universidade Federal do Rio Grande do Norte (Brazil)"
+    homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
   - name: Luis Soares Barbosa
-    org: ""
-    homepage: ""
-
+    org: "Universidade Do Minho (Portugal)"
+    homepage: "https://www.di.uminho.pt/~lsb/"
+  - name: TBC
 #   - name: Arnab Bhattacharya
 #     org: IIT Kanpur, Kanpur, India
 #     homepage: https://cse.iitk.ac.in/users/arnabb/

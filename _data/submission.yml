@@ -1,5 +1,5 @@
-portal: CMT3 Submission Portal
-url: "https://cmt3.research.microsoft.com/ISCLS2024"
+portal: Easy Chair
+url: "https://easychair.org/formers2024"
 
 file_formats:
   - PDF
@@ -13,24 +13,24 @@ review_mode: 1
 pagelimits:
   - type: paper
     name: Paper
-    limit: 20
-  - type: demo
-    name: Demonstration
-    limit: 2
+    limit: 12
+  # - type: demo
+  #   name: Demonstration
+  #   limit: 2
 
 fontsize: 10
 
-extra: |
-  <h6 class="text-info">Compilation</h6>
+# extra: |
+#   <h6 class="text-info">Compilation</h6>
 
-  Let the fileame of your submision be <code>ABC.tex</code>.
+#   Let the fileame of your submision be <code>ABC.tex</code>.
 
-  <pre class="pre-scrollable bg-dark text-light rounded mt-2 p-2">
-  $ xelatex ABC
-  $ bibtex ABC
-  $ bibtex ABC # Remember to run bibtex twice
-  $ xelatex ABC
-  </pre>
+#   <pre class="pre-scrollable bg-dark text-light rounded mt-2 p-2">
+#   $ xelatex ABC
+#   $ bibtex ABC
+#   $ bibtex ABC # Remember to run bibtex twice
+#   $ xelatex ABC
+#   </pre>
 
 sources:
 - name: Sample TeX Source File
@@ -51,9 +51,9 @@ sources:
 
 
 template:
-  name: ISCLS Submission Template
-  description: submission template and instructions for ISCLS
+  name: Lecture Notes in Computer Science (LNCS)
+  description: submission template and instructions for LNCS
   url: ./assets/files/iscls-template.zip
-  overleaf: https://www.overleaf.com/latex/templates/submission-template-and-instructions-for-the-iscls/dmhhdjnxqftd
+  overleaf: hhttps://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj
 
-publisher: Association for Computational Linguistics Anthology
+publisher: Springer
