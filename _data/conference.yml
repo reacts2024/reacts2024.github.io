@@ -30,7 +30,7 @@ slideshow:
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/aveiro2.jpeg
-    #description: Matrimandir
+   # description: ""
     photographer_name: ""
     photographer_link: ""
   - id: 2
@@ -51,6 +51,11 @@ slideshow:
   - id: 5
     image_path: ./assets/images/slideshow/aveiro6.jpeg
     #description: Auroville
+    photographer_name: ""
+    photographer_link: ""
+  - id: 6
+    image_path: ./assets/images/slideshow/aveiro4.png
+    #description: White Town
     photographer_name: ""
     photographer_link: ""
 navbar:
