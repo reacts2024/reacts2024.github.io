@@ -23,38 +23,38 @@ show_title: false
 
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/0-auroville-beach.jpg
+    image_path: ./assets/images/slideshow/0-aveiro.jpeg
    # description: Auroville Beach
     photographer_name: ""
     photographer_link: ""
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/aveiro2.jpeg
+    image_path: ./assets/images/slideshow/1-aveiro.jpeg
    # description: ""
     photographer_name: ""
     photographer_link: ""
   - id: 2
-    image_path: ./assets/images/slideshow/aveiro3.jpeg
+    image_path: ./assets/images/slideshow/2-aveiro.jpeg
    # description: Promenade Beach
     photographer_name: ""
     photographer_link: ""
   - id: 3
-    image_path: ./assets/images/slideshow/aveiro4.png
+    image_path: ./assets/images/slideshow/3-aveiro.jpeg
     #description: White Town
     photographer_name: ""
     photographer_link: ""
   - id: 4
-    image_path: ./assets/images/slideshow/aveiro5.jpeg
+    image_path: ./assets/images/slideshow/4-aveiro.png
     #description: Manakula Vinayagar Temple
     photographer_name: ""
     photographer_link: ""
   - id: 5
-    image_path: ./assets/images/slideshow/aveiro6.jpeg
+    image_path: ./assets/images/slideshow/5-aveiro.jpeg
     #description: Auroville
     photographer_name: ""
     photographer_link: ""
   - id: 6
-    image_path: ./assets/images/slideshow/aveiro4.png
+    image_path: ./assets/images/slideshow/6-aveiro.jpeg
     #description: White Town
     photographer_name: ""
     photographer_link: ""
