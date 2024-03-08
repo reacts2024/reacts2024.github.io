@@ -3,13 +3,11 @@ address: |
   Portugal
 directions: >
   Google Maps Location: <a href="https://www.google.com/maps/d/embed?mid=19bwamNxbltBTbdk-dBsJ6UtOynI&hl=en_US&ehbc=2E312F">"https://www.google.com/maps/d/embed?mid=19bwamNxbltBTbdk-dBsJ6UtOynI&hl=en_US&ehbc=2E312F"</a>
-# accommodation:
-#   instructions: >
-#     <p>
-#       We have partnered with <a href="https://www.ostel.co.in/">Ostel</a> on
-#       Auroville Repos beach for accommodation. Rates have been substantially
-#       discounted for the event.
-#     </p>
+accommodation:
+  instructions: >
+    <p>
+      Accommodation options can be found at the SFEM 2024 website.
+    </p>
 
 #     <p>
 #       A bus service will be provided to the conference venue (Unity Pavilion)
