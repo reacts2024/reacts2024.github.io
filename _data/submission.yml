@@ -34,26 +34,28 @@ fontsize: 10
 
 sources:
 - name: Sample TeX Source File
-  url: ./assets/files/iscls.tex
-  text: iscls.tex
+  url: ./assets/files/samplepaper.tex
+  text: samplepaper.tex
 - name: Sample PDF file
-  url: ./assets/files/iscls.pdf
-  text: iscls.pdf
+  url: ./assets/files/samplepaper.pdf
+  text: samplepaper.pdf
 - name: Style file
-  url: ./assets/files/scl.sty
-  text: scl.sty
+  url: ./assets/files/llncs.cls
+  text: llncs.cls
 - name: Bibliography Style
-  url: ./assets/files/acl.bst
-  text: acl.bst
-- name: Sample Bibliography file
-  url: ./assets/files/iscls.bib
-  text: iscls.bib
-
+  url: ./assets/files/splncs04.bst
+  text: splncs04.bst
+- name: Figure Sample
+  url: ./assets/files/fig1.eps
+  text: fig1.eps
+- name: Readme
+  url: ./assets/files/readme.txt
+  text: readme.txt
 
 template:
   name: Lecture Notes in Computer Science (LNCS)
   description: submission template and instructions for LNCS
-  url: ./assets/files/iscls-template.zip
-  overleaf: hhttps://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj
+  url: ./assets/files/lncs.zip
+  overleaf: https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj
 
-publisher: Springer
+publisher: Proceedings in LNCS from Springer 
