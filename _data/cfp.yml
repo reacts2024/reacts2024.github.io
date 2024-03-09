@@ -2,15 +2,16 @@ description: >
   Full papers are invited on original and unpublished research on various aspects of Formal Methods for Reconfigurable Systems
 submission: ./submission.html
 areas:
-- category: ""
+- category: "Reconfigurable transitions systems (RTS)"
   topics:
-    - Reactive transitions systems.
     - Models for the analysis of reconfigurable systems.
-    - Dynamic Logics, Separation Logics, Dynamic Epistemic Logics for RTS.
     - Applications of formal models for reconfigurable systems. 
     - Computational tools to animate and analyze RTS.
-    - Generalizations of RTS: Fuzzy RTS, Paraconsistent RTS, Weighted RTS, etc.
+    - Generalizations of RTS - Fuzzy RTS, Paraconsistent RTS, Weighted RTS, etc.
     - Featured Transition System.
+- category: "Logical Methods"
+  topics:
+    - Dynamic Logics, Separation Logics, Dynamic Epistemic Logics for RTS.
     - Bisimulations and general algebraic constructions.
     - Model Checking and Tools.
     - Reactive systems and Process Algebra
