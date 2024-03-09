@@ -1,13 +1,13 @@
-full_name: Workshop on Formal Methods for Reconfigurable Systems
-short_name: ForMeRS 
+full_name: "International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
+short_name: RecTS 
 description: > # this means to ignore newlines until "baseurl:"
   This is a satellite event of  <a href="https://sefm-conference.github.io/2024/" >SEFM 2024</a>
 
 email: rfervari@unc.edu.ar / martins@ua.pt
 
 iteration: 1st
-full_title: Workshop on Formal Methods for Reconfigurable Systems 
-short_title: ForMeRS Workshop
+full_title: "International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
+short_title: ReacTS Workshop
 
 year: 2024
 date: November 3, 2024
