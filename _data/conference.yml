@@ -10,7 +10,7 @@ full_title: "International Workshop on Reconfigurable Transition Systems: Semant
 short_title: ReacTS Workshop
 
 year: 2024
-date: November 3, 2024
+date: November 5, 2024
 
 location: Aveiro
 country: Portugal
@@ -109,7 +109,7 @@ deadlines:
     text: Camera-ready due
     pass_due: False
     strike_through: False
-  - date: 2024-11-03
+  - date: 2024-11-05
     text: Workshop
     pass_due: False
     strike_through: False
