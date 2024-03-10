@@ -1,5 +1,5 @@
 portal: Easy Chair
-url: "https://easychair.org/formers2024"
+url: "https://easychair.org/reacts2024"
 
 file_formats:
   - PDF
@@ -11,12 +11,12 @@ review_mode: 1
 # 1: single blind
 
 pagelimits:
-  - type: paper
-    name: Paper
+  - type: fullpaper
+    name: Full Paper
     limit: 12
-  # - type: demo
-  #   name: Demonstration
-  #   limit: 2
+  - type: short
+    name: Short Presentations
+    limit: 4
 
 fontsize: 10
 
@@ -32,30 +32,30 @@ fontsize: 10
 #   $ xelatex ABC
 #   </pre>
 
-sources:
-- name: Sample TeX Source File
-  url: ./assets/files/samplepaper.tex
-  text: samplepaper.tex
-- name: Sample PDF file
-  url: ./assets/files/samplepaper.pdf
-  text: samplepaper.pdf
-- name: Style file
-  url: ./assets/files/llncs.cls
-  text: llncs.cls
-- name: Bibliography Style
-  url: ./assets/files/splncs04.bst
-  text: splncs04.bst
-- name: Figure Sample
-  url: ./assets/files/fig1.eps
-  text: fig1.eps
-- name: Readme
-  url: ./assets/files/readme.txt
-  text: readme.txt
+# sources:
+# - name: Sample TeX Source File
+#   url: ./assets/files/samplepaper.tex
+#   text: samplepaper.tex
+# - name: Sample PDF file
+#   url: ./assets/files/samplepaper.pdf
+#   text: samplepaper.pdf
+# - name: Style file
+#   url: ./assets/files/llncs.cls
+#   text: llncs.cls
+# - name: Bibliography Style
+#   url: ./assets/files/splncs04.bst
+#   text: splncs04.bst
+# - name: Figure Sample
+#   url: ./assets/files/fig1.eps
+#   text: fig1.eps
+# - name: Readme
+#   url: ./assets/files/readme.txt
+#   text: readme.txt
 
 template:
   name: Lecture Notes in Computer Science (LNCS)
   description: submission template and instructions for LNCS
-  url: ./assets/files/lncs.zip
-  overleaf: https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj
+  url: https://www.springer.com/gp/computer-science/lncs
+  #overleaf: https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj
 
 publisher: Proceedings in LNCS from Springer 

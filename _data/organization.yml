@@ -12,14 +12,14 @@
 - title: Organising Chair
   column: 1
   members:
-  - name: Raul Fervari
-    org: Universidad Nacional de Córdoba and CONICET (Argentina)
+  - name:  TBA
+    org: ""
     post: ""
-    homepage: https://cs.famaf.unc.edu.ar/~rfervari
-  - name: Manuel Martins
-    org: University of Aveiro (Portugal)
+    homepage: ""
+  - name: TBA
+    org: ""
     post: ""
-    homepage: https://cs.famaf.unc.edu.ar/~rfervari
+    homepage:  ""
 # - title: Steering Committee
 #   column: 1
 #   members:
@@ -57,6 +57,9 @@
   - name: Valentin Cassano
     org: Universidad Nacional de Río Cuarto and CONICET (Argentina)
     homepage: http://vcassano.github.io
+  - name: Stéphane Demri
+    org: CNRS, Université Paris-Saclay (France)
+    homepage: https://www.lsv.fr/~demri
   - name: Daniel Figueiredo
     org: "University of Aveiro (Portugal)"
     homepage: " "

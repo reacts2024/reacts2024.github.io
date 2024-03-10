@@ -1,5 +1,12 @@
 description: >
-  Full papers are invited on original and unpublished research on various aspects of Formal Methods for Reconfigurable Systems
+  Full papers and short presentations are invited on original and unpublished research on various aspects of Formal Methods for Reconfigurable Systems. System Descriptions are both allowed as full paper or short presentation.
+
+  Accepted Full Papers will be included in the workshop programme and will appear in the workshop pre-proceedings as well as in the LNCS post-proceedings. Short presentations will be included in the pre-proceedings.
+
+  Pre-proceedings will be available online before the Workshop.
+
+
+  
 submission: ./submission.html
 areas:
 - category: "Reconfigurable transitions systems (RTS)"
