@@ -63,12 +63,18 @@
   - name: Daniel Figueiredo
     org: "University of Aveiro (Portugal)"
     homepage: " "
+  - name: Sabine Fritella
+    org: "Université d'Orleans (France)"
+    homepage: "https://scholar.google.fr/citations?user=LXJScpMAAAAJ&hl=fr"
   - name: Regivan Santiago
     org: "Universidade Federal do Rio Grande do Norte (Brazil)"
     homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
   - name: Luis Soares Barbosa
     org: "Universidade Do Minho (Portugal)"
     homepage: "https://www.di.uminho.pt/~lsb/"
+  - name: Fernando R. Velázquez-Quesada
+    org: "University of Bergen (Norway)"
+    homepage: "https://www.uib.no/en/persons/Fernando.Raymundo.Velazquez.Quesada"
   - name: TBC
 #   - name: Arnab Bhattacharya
 #     org: IIT Kanpur, Kanpur, India
