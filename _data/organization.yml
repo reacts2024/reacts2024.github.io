@@ -56,7 +56,10 @@
     homepage: https://carlosareces.github.io
   - name: Mario Benevides
     org: Universidade Federal do Rio de Janeiro (Brazil)
-    homepage: homepage:https://mariorfb.github.io
+    homepage: https://mariorfb.github.io
+  - name: Patrick Blackburn
+    org: University of Roskilde (Denmark)
+    homepage: https://www.patrickblackburn.org
   - name: Valentin Cassano
     org: Universidad Nacional de Río Cuarto and CONICET (Argentina)
     homepage: http://vcassano.github.io
@@ -69,9 +72,15 @@
   - name: Sabine Frittella
     org: "Université d'Orleans (France)"
     homepage: "https://scholar.google.fr/citations?user=LXJScpMAAAAJ&hl=fr"
+  - name: Sergio Marcelino
+    org: "Universidade de Lisboa (Portugal)"
+    homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
   - name: Regivan Santiago
     org: "Universidade Federal do Rio Grande do Norte (Brazil)"
     homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
+  - name: Igor Sedlár
+    org: Czech Academy of Sciences (Czech Republich)
+    homepage: https://www.cs.cas.cz/sedlar/
   - name: Luis Soares Barbosa
     org: "Universidade Do Minho (Portugal)"
     homepage: "https://www.di.uminho.pt/~lsb/"
