@@ -66,21 +66,30 @@
   - name: Valentin Cassano
     org: Universidad Nacional de Río Cuarto and CONICET (Argentina)
     homepage: http://vcassano.github.io
+  - name: Madalena Chaves
+    org: Centre Inria d'Université Côte d'Azur (France)
+    homepage: https://www-sop.inria.fr/members/Madalena.Chaves/
   - name: Stéphane Demri
     org: CNRS, Université Paris-Saclay (France)
     homepage: https://www.lsv.fr/~demri
   - name: Daniel Figueiredo
     org: "University of Aveiro (Portugal)"
     homepage: " "
-  - name: Sabine Frittella
-    org: "Université d'Orleans (France)"
-    homepage: "https://scholar.google.fr/citations?user=LXJScpMAAAAJ&hl=fr"
+  # - name: Sabine Frittella
+  #   org: "Université d'Orleans (France)"
+  #   homepage: "https://scholar.google.fr/citations?user=LXJScpMAAAAJ&hl=fr"
+  - name: Sujata Gosh
+    org: "Indian Statistical Institute, Chennai (India)"
+    homepage: "https://www.isichennai.res.in/~sujata/"
   - name: Sergio Marcelino
     org: "Universidade de Lisboa (Portugal)"
     homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
   - name: Regivan Santiago
     org: "Universidade Federal do Rio Grande do Norte (Brazil)"
     homepage: "https://www.researchgate.net/profile/Regivan-Santiago"
+  - name: François Schwarzentruber
+    org: "ENS Rennes (France)"
+    homepage: "https://people.irisa.fr/Francois.Schwarzentruber"
   - name: Igor Sedlár
     org: Czech Academy of Sciences (Czech Republich)
     homepage: https://www.cs.cas.cz/sedlar/
