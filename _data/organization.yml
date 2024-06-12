@@ -20,6 +20,15 @@
     org: ""
     post: ""
     homepage:  ""
+- title: Invited Speakers
+  column: 1
+  members: 
+  - name: Johan van Benthem
+    org: ILLC, University of Amsterdam (The Netherlands) & Stanford University (USA)
+    homepage: https://staff.fnwi.uva.nl/j.vanbenthem
+  - name: Sergio Marcelino
+    org: "Universidade de Lisboa (Portugal)"
+    homepage: "https://www.researchgate.net/profile/Sergio-Marcelino"
 # - title: Steering Committee
 #   column: 1
 #   members:
