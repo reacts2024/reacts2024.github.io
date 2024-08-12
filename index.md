@@ -4,8 +4,7 @@ layout: home
 slide_id: 0
 ---
 
-<a href="https://drive.google.com/file/d/1NbNK2GcViiQvNPvkarHut2jjCM41ZIqk/view?usp=sharing
-">See our invited talks!</a>
+<a href="https://reacts2024.github.io/program.html">See our invited talks!</a>
 
 Reconfigurable Transition Systems (RTS) are dynamic relational structures (graphs) that evolve along its execution, in the sense that their accessibility relation, their set of nodes or their labelling change when their edges are crossed. These structures have proven to be suitable to compactly represent complex reactive and reconfigurable behaviours. Namely, the ability of reacting or readapting under the influence of certain events is a very distinctive feature of many diverse situations and objects. An autonomous vehicle that changes its route due to a new strike occurring, the behaviour of a software component after a memory disposal, or a DNA mutation as the result of a viral infection, are different examples that witness the importance of modelling about changes in a determined situation. Practical user cases have aroused the interest of the logic community in the study of variants of RTS, by developing formal methods to properly reason about such situations.
 
