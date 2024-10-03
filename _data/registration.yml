@@ -1,15 +1,6 @@
-about: "Registrations will be opened soon."
-url: "" #"https://donorbox.org/events/535583"
-description: |
-  <h5 class="text-info">Registration</h5>
-
-  <p>
-    Registration will be via the <a class="font-weight-bold" href="https://sefm-conference.github.io/2024/">SEFM</a> website.
-  </p>
-
-  <p class="font-weight-bold">
-   
-  </p>
+about: "Registrations is open!"
+url: "https://sefm-conference.github.io/2024/registration/" 
+description: 
 
   
 
