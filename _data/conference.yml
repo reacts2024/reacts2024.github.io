@@ -109,7 +109,7 @@ deadlines:
     text: Camera-ready due
     pass_due: False
     strike_through: False
-  - date: November 4-5, 2024
+  - date: November 4 and 5, 2024
     text: Workshop
     pass_due: False
     strike_through: False
